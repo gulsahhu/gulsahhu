@@ -2,10 +2,9 @@
 
 
 
-Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning Data Science and Data Analyst
+- 🌱 I’m currently learning Data Science and Data Analysis
 - 📫 How to reach me: gulsahu395@gmail.com
 
 
